@@ -1,0 +1,1 @@
+codigo=001|nombre=arroz|cantidad=10|total=250.0|fecha=2025-07-07|hora=21:22:30

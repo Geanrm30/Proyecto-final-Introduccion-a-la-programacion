@@ -1,0 +1,2 @@
+codigo=001|nombre=arroz|precio=25.0|stock=490|vencimiento=2025-07-23
+codigo=002|nombre=frijoles|precio=20.0|stock=140|vencimiento=2025-07-26|lote1_stock=100|lote1_vencimiento=2025-07-26|lote2_stock=40|lote2_vencimiento=2025-08-03

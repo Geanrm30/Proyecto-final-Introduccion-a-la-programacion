@@ -1,0 +1,14 @@
+RESUMEN DIARIO DE VENTAS Y STOCK
+Fecha|2025-07-07
+
+--- PRODUCTOS ---
+codigo=001|nombre=arroz|precio=25.0|stock=490|vencimiento=2025-07-23
+codigo=002|nombre=frijoles|precio=20.0|stock=140|vencimiento=2025-07-26|lote1_stock=100|lote1_vencimiento=2025-07-26|lote2_stock=40|lote2_vencimiento=2025-08-03
+
+--- VENTAS DEL DÍA ---
+10 x arroz - Total: C$250.0 (21:22:30)
+
+TOTAL VENTAS: C$250.0
+
+--- ALERTAS ---
+No hay alertas.

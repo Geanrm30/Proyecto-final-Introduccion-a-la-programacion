@@ -1,0 +1,3 @@
+admin|admin123
+vendedor|ventas456
+usuario1|clave123
